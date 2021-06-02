@@ -1,0 +1,102 @@
+{
+	"langs": {
+		"en-US": {
+			"voices": {
+				"en-US-JennyNeural": {
+					"styles": [
+						"General","customerservice","chat","assistant","newscast"
+					]
+				},
+				"en-US-AriaNeural": {
+					"styles": [
+						"General","newscast-formal","newscast-casual","narration-professional","customerservice","chat","cheerful","empathetic"
+					]
+				},
+				"en-US-GuyNeural": {
+					"styles": [
+						"General","newscast"
+					]
+				},
+				"en-US-AmberNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-AshleyNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-CoraNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-ElizabethNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-JennyMultilingualNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-MichelleNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-MonicaNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-AnaNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-BrandonNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-ChristopherNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-JacobNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-US-EricNeural": {
+					"styles": [
+						"General"
+					]
+				}
+			}
+		},
+		"en-GB": {
+			"voices": {
+				"en-GB-LibbyNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-GB-MiaNeural": {
+					"styles": [
+						"General"
+					]
+				},
+				"en-GB-RyanNeural": {
+					"styles": [
+						"General"
+					]
+				}
+			}
+		}
+	}
+}
